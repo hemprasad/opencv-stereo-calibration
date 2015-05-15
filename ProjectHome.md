@@ -1,0 +1,1 @@
+This software performs stereo camera calibration using OpenCV. For further details, please visit http://blog.martinperis.com/2011/01/opencv-stereo-camera-calibration.html
